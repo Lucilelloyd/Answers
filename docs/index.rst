@@ -5,7 +5,7 @@ Webroot SecureAnywhere is a cloud-based antivirus solution designed to provide r
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://startwebroot.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
+       <a href="https://webrootdesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
    </div>
 
 Key highlights include:
